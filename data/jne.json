@@ -1,0 +1,21 @@
+{
+  "name": "JNE",
+  "services": [
+    {
+      "name": "YES",
+      "description": "YES adalah layanan dengan waktu penyampaian di tujuan keesokan hari (termasuk hari Minggu dan hari libur nasional)."
+    },
+    {
+      "name": "REG",
+      "description": "REGULER adalah layanan pengiriman ke seluruh wilayah Indonesia, dengan perkiraan waktu penyampaian kiriman 1-7 hari kerja, tergantung pada zona daerah yang menjadi tujuan pengiriman."
+    },
+    {
+      "name": "OKE",
+      "description": "OKE adalah Layanan pengiriman ke seluruh wilayah Indonesia dengan tarif ekonomis dengan perkiraan waktu penyampaian kiriman lebih lama dari Service REGULER. Tergantung pada zona daerah yang menjadi tujuan pengiriman."
+    },
+    {
+      "name": "JTR",
+      "description": "JTR adalah layanan pengiriman dalam jumlah / volume yang besar melalui darat dan laut dengan harga yang kompetitif."
+    }
+  ]
+}

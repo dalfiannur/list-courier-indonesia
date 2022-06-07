@@ -1,0 +1,29 @@
+{
+  "name": "Lion Parcel",
+  "services": [
+    {
+      "name": "JAGOPACK",
+      "description": "JAGOPACK adalah layanan pengiriman paket dengan harga murah yang sudah bisa mengakomodir pengiriman paket dari dan ke seluruh Indonesia."
+    },
+    {
+      "name": "ONEPACK",
+      "description": "Pengiriman Besok Sampai dengan jaminan uang kembali jika paket tidak diterima pada hari berikutnya."
+    },
+    {
+      "name": "REGPACK",
+      "description": "Pengiriman paket dengan jaringa ke seluruh Indonesia. Solusi cerdas untuk pengiriman yang andal dan efesien."
+    },
+    {
+      "name": "INTERPACK",
+      "description": "Pengiriman paket dan dokumen dari Indonesia ke luar negeri dengan harga yang terjangkau."
+    },
+    {
+      "name": "BIGPACK",
+      "description": "Pengiriman paket mulai dari 10kg dengan harga yang lebih hemat."
+    },
+    {
+      "name": "DOCUPACK",
+      "description": "Pengiriman dokumen ke seluruh Indonesia dengan harga flat*."
+    }
+  ]
+}
