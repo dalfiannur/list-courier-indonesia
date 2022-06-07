@@ -16,6 +16,26 @@
     {
       "name": "JTR",
       "description": "JTR adalah layanan pengiriman dalam jumlah / volume yang besar melalui darat dan laut dengan harga yang kompetitif."
-    }
+    },
+    {
+      "name": "JTR250",
+      "description": "",
+    },
+    {
+      "name": "JTR<150",
+      "description": "",
+    },
+    {
+      "name": "JTR>250",
+      "description": "",
+    },
+    {
+      "name": "JTR250",
+      "description": "",
+    },
+    {
+      "name": "SPS",
+      "description": "",
+    },
   ]
 }
