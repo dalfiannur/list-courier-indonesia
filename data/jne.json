@@ -19,23 +19,19 @@
     },
     {
       "name": "JTR250",
-      "description": ""
+      "description": "JTR250"
     },
     {
       "name": "JTR<150",
-      "description": ""
+      "description": "JTR<150"
     },
     {
       "name": "JTR>250",
-      "description": ""
-    },
-    {
-      "name": "JTR250",
-      "description": ""
+      "description": "JTR>250"
     },
     {
       "name": "SPS",
-      "description": ""
+      "description": "SPS"
     }
   ]
 }
